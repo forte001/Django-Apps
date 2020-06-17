@@ -8,6 +8,7 @@ has been executed by an individual can be showcased and can serve as reference f
 employers to have a feel of what the individual is capable of.
 
 It has two main pages namely:
+
 -Index page: This is the page contains the list of all the projects.
 
 -Detail page: This page displayes the full detail of any project clicked
@@ -20,6 +21,7 @@ The blog created in such a manner that each post belongs to a category.Each post
 category and body which carries the message to be passed across.
 
 The blog has three major pages:
+
 -Index page: The index page lists all the posts including the title, category, date posted, and some part of
 the body (limited to 400 characters).
 
